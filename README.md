@@ -1,4 +1,1 @@
-# BFI-10_ Personality test
-![img](Img/img.jpeg)
-
-
+# BFI-10_project
